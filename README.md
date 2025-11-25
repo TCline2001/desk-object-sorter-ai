@@ -27,5 +27,3 @@ Models like this could be used for auto shop parts organization, construction ma
 
 ## (Optional) Challenges / Interesting Discoveries
 I was surprised by how well the model performed even with minimal iteration. It handled different angles, lighting conditions, and even Google images of similar—but not identical—objects with very high confidence.
-
-
